@@ -1,4 +1,4 @@
-# 🌦️ TempoAgora - Previsão do Tempo em .NET MAUI
+# 🌦️ Tempo Agora - Previsão do Tempo em .NET MAUI
 
 Aplicativo desenvolvido em .NET MAUI para exibir a previsão do tempo de uma cidade informada pelo usuário. A aplicação consome dados da API OpenWeather e exibe informações como temperatura, descrição do clima, visibilidade, velocidade do vento e horários do nascer e pôr do sol.
 
